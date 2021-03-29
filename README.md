@@ -2,7 +2,7 @@
 ### NTHU Computational Methods for Biomedical Image Analysis 
 
 #### Assignment 1 - Medical Image Segmentation
--
+---
 ### Included functions
 
 1. Read in and print out all the data fields in a DICOM file
